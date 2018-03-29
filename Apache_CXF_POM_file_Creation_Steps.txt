@@ -5,3 +5,8 @@ https://glenmazza.net/blog/entry/web-service-tutorial
 http://cxf.apache.org/
 
 https://maven.apache.org/download.cgi
+----------------------------------------
+cfx.xml & cxf-servlet.xml for Endpoint configuration
+http://cxf.apache.org/docs/configuration.html
+http://svn.apache.org/viewvc/cxf/trunk/systests/transports/src/test/java/org/apache/cxf/systest/servlet/cxf-servlet.xml?view=markup
+
