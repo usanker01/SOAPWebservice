@@ -16,4 +16,7 @@ https://spring.io/guides/gs/consuming-web-service/#scratch
 --------------------
 Writing WebService Client code using Service Endpoint Rather than going through wsdl location
 https://www.codenotfound.com/apache-cxf-spring-boot-soap-web-service-client-server-example.html
+--------------
+CXF SOAP service preserve space
+https://stackoverflow.com/questions/35631214/cxf-soap-service-preserve-space
 
