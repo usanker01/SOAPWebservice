@@ -9,4 +9,9 @@ https://maven.apache.org/download.cgi
 cfx.xml & cxf-servlet.xml for Endpoint configuration
 http://cxf.apache.org/docs/configuration.html
 http://svn.apache.org/viewvc/cxf/trunk/systests/transports/src/test/java/org/apache/cxf/systest/servlet/cxf-servlet.xml?view=markup
+---------------------------------
+Calling webservice EndPoint through Spring
+
+https://spring.io/guides/gs/consuming-web-service/#scratch
+--------------------
 
