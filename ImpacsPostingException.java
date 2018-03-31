@@ -1,7 +1,7 @@
 
 public class ImpacsPostingException extends Exception{
 	
-    static final long serialVersionUID = 1L; 
+     static final long serialVersionUID = 1L; 
 	
 	public ImpacsPostingException(String message) {
 		super(message);
