@@ -1,3 +1,22 @@
 http://cxf.apache.org/docs/using-cxf-with-maven.html
 
 https://glenmazza.net/blog/entry/web-service-tutorial
+
+http://cxf.apache.org/
+
+https://maven.apache.org/download.cgi
+----------------------------------------
+cfx.xml & cxf-servlet.xml for Endpoint configuration
+http://cxf.apache.org/docs/configuration.html
+http://svn.apache.org/viewvc/cxf/trunk/systests/transports/src/test/java/org/apache/cxf/systest/servlet/cxf-servlet.xml?view=markup
+---------------------------------
+Calling webservice EndPoint through Spring
+
+https://spring.io/guides/gs/consuming-web-service/#scratch
+--------------------
+Writing WebService Client code using Service Endpoint Rather than going through wsdl location
+https://www.codenotfound.com/apache-cxf-spring-boot-soap-web-service-client-server-example.html
+--------------
+CXF SOAP service preserve space
+https://stackoverflow.com/questions/35631214/cxf-soap-service-preserve-space
+
