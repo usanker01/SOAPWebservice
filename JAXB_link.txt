@@ -1,0 +1,15 @@
+++https://stackoverflow.com/questions/35631214/cxf-soap-service-preserve-space
+
+https://developer.jboss.org/thread/101048?_sscc=t
+
+https://www.tutorialspoint.com/xml/xml_white_spaces.htm
+
+++https://docs.oracle.com/javase/7/docs/api/javax/xml/bind/annotation/adapters/XmlAdapter.html
+
+++http://www.eclipse.org/eclipselink/documentation/2.6/moxy/advanced_concepts006.htm
+
+++http://www.eclipse.org/eclipselink/documentation/2.6/moxy/advanced_concepts006.htm#CHDBBDAC
+
+https://java2blog.com/jaxb-tutorial/
+
+https://stackoverflow.com/questions/3666467/how-can-i-add-xml-attributes-to-jaxb-annotated-class-xmlelementwrapper
