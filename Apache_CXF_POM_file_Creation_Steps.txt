@@ -20,3 +20,18 @@ https://www.codenotfound.com/apache-cxf-spring-boot-soap-web-service-client-serv
 CXF SOAP service preserve space
 https://stackoverflow.com/questions/35631214/cxf-soap-service-preserve-space
 
+----------------
+Java Design Pattern:
+Java Design patterns:
+
+http://best-practice-software-engineering.ifs.tuwien.ac.at/patterns/proxy.html
+
+http://best-practice-software-engineering.ifs.tuwien.ac.at/patterns/delegation.html
+
+https://www.javatpoint.com/proxy-pattern
+
+https://www.geeksforgeeks.org/proxy-design-pattern/
+
+http://javadevnotes.com/java-integer-to-fixed-length-string
+----------------------
+
