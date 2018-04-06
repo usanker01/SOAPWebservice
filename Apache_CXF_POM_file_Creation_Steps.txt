@@ -33,5 +33,11 @@ https://www.javatpoint.com/proxy-pattern
 https://www.geeksforgeeks.org/proxy-design-pattern/
 
 http://javadevnotes.com/java-integer-to-fixed-length-string
-----------------------
+---------------------------------------------------------------------------------
+SpringBoot RetryTemplate Example | Java Web Service Retry Design
+================================================================
+https://www.youtube.com/watch?v=RifZ-AYL7hc --SpringBoot RetryTemplate Example | Java Web Service Retry Design
+https://github.com/spring-projects/spring-retry --github --springbatch
+https://docs.spring.io/spring-batch/trunk/reference/html/retry.html --springbatch
+-------------------------------------------------------------------------------
 
