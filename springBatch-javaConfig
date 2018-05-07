@@ -1,0 +1,33 @@
+@Configuration
+@EnableBatchProcessing
+@EnableAutoConfiguration
+public class BatchConfig {
+ 
+    @Autowired
+    private JobBuilderFactory jobBuilderFactory;
+ 
+    @Autowired
+    private StepBuilderFactory stepBuilderFactory;
+ 
+    @Bean
+    public Step step1() {
+        return stepBuilderFactory.get("step1")
+            //.listener(steplitener())
+            .tasklet(new Tasklet(){
+                public RepeatStatus execute(StepContribution contribution, ChunkContext chunkContext) {
+                    // Get Job parameter
+                    JobParameters parameters = chunkContext.getStepContext().getStepExecution().getJobExecution().getJobParameters();
+                    System.out.println("Step1:" + parameters.getString("date"));
+                    return RepeatStatus.FINISHED;
+            }
+        }).build();
+    }    
+ 
+    @Bean
+    public Job job(Step step1) throws Exception {
+        return jobBuilderFactory.get("job")
+                .incrementer(new RunIdIncrementer())
+                .start(step1)
+                .build();
+    }
+}
