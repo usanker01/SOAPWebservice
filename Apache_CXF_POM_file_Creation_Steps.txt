@@ -43,4 +43,7 @@ https://www.youtube.com/watch?v=RifZ-AYL7hc --SpringBoot RetryTemplate Example |
 https://github.com/spring-projects/spring-retry --github --springbatch
 https://docs.spring.io/spring-batch/trunk/reference/html/retry.html --springbatch
 -------------------------------------------------------------------------------
-
+ Server side Java using Eclipse framework 
+-          Active MQ experience
+-          Experience in batch and transactional reconciliation processes across application or applications
+-          good database/SQL skills
