@@ -47,3 +47,11 @@ https://docs.spring.io/spring-batch/trunk/reference/html/retry.html --springbatc
 -          Active MQ experience
 -          Experience in batch and transactional reconciliation processes across application or applications
 -          good database/SQL skills
+
+JSON to CSV
+-------------
+http://bethecoder.com/applications/tutorials/json/json-java/jsonarray-to-csv.html
+
+https://www.mkyong.com/java/jackson-2-convert-java-object-to-from-json/
+
+https://stackoverflow.com/questions/1957406/generate-java-class-from-json
